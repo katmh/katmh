@@ -1,4 +1,4 @@
-### Hi there 👋
+### oh boi another bio to write
 
 <!--
 **katmh/katmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
